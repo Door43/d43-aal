@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aal:home|Door43 (aal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aal|d43-aal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aal/archive/master.zip|d43-aal.zip]]
+
+**Recent Changes**
+{{changes>ns = aal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aal|Ethnologue data]]
+
